@@ -136,6 +136,22 @@ Battery Water is available for Android through Google Play.
 
 Distilled water is commonly used with compatible lead-acid batteries. Always follow the instructions provided by your battery manufacturer.
 
+## Can I view my previous orders?
+
+Yes. Registered users can access their order history from their account.
+
+## Can I manage my delivery address?
+
+Yes. Users can manage their delivery information through the application.
+
+## 🚀 Future Improvements
+
+We aim to continue improving Battery Water with a faster, simpler and more convenient ordering experience.
+
+Future releases may include additional products, improved order management, enhanced notifications and other customer-focused features.
+
+
+
 
 ## 🏢 Walia Creations
 
