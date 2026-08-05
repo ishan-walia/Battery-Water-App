@@ -132,6 +132,10 @@ Our focus is on:
 
 Battery Water is available for Android through Google Play.
 
+## What types of batteries can distilled water be used with?
+
+Distilled water is commonly used with compatible lead-acid batteries. Always follow the instructions provided by your battery manufacturer.
+
 
 ## 🏢 Walia Creations
 
