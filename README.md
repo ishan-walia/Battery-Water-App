@@ -128,6 +128,11 @@ Our focus is on:
 
 ---
 
+## Where can I download the app?
+
+Battery Water is available for Android through Google Play.
+
+
 ## 🏢 Walia Creations
 
 **Battery Water** is developed and published by **Walia Creations**.
